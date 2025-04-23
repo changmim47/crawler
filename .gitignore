@@ -1,0 +1,30 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+
+# 임시 파일 및 빌드
+*.xlsx
+*.zip
+*.bak
+*.tmp
+*.DS_Store
+*.swp
+
+# 환경설정 / 인증정보
+.env
+client_secret.json
+service_account.json
+streamlit_app/secrets.toml
+.streamlit/secrets.toml
+
+# VSCode 설정
+.vscode/
+
+# 크롤링 중 생성되는 로컬 데이터
+collected_qids.txt
+
+# Jupyter Notebook 관련
+.ipynb_checkpoints/
