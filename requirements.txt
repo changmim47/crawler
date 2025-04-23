@@ -1,7 +1,6 @@
 streamlit
-selenium
-beautifulsoup4
 pandas
+beautifulsoup4
 gspread
 google-auth
-webdriver-manager
+playwright
